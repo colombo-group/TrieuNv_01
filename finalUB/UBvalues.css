@@ -1,0 +1,107 @@
+
+#pageView{
+	padding: 0px;
+	margin: 0px;
+}
+#topBar{
+	height: 30px;
+	background-image: url(../img/bgtopbar.jpg);
+	margin: 0px;
+}
+#plag{
+	background-image: url(..img/flag.jpg);
+	background-repeat: no-repeat;
+	float: right;
+	width: 20px;
+	height: 10px;
+}
+#ulTop{
+	float: right;
+}
+#menubartop{
+	height:100px;
+	width: 100%;
+
+}
+#head-link{
+	height: 100px;
+	width: 100%;
+	background-image: url(../img/navbg.jpg);
+}
+#head-local{
+	margin: 0px 0px 20px 0px;
+}
+div#head-left{
+	float: left;
+	text-align: bottom;
+	width: 50%;
+	height: 100%;
+}
+div#head-right{
+	width: 50%;
+	float: right;
+	text-align: bottom;
+	height: 100%;
+}
+#center{
+	padding: 30px 0px 100px 0px;
+	width: 100%;
+	background: #eeeeee;
+}
+#center-left{
+	background-color: #ffffff;
+	margin: 0px;
+	float: left;
+	width: 704px;
+	padding: 10px 20px 20px 20px;
+}
+#content-icon{
+	margin-top: 20px;
+	padding-bottom: 10px;
+	border-bottom: 1px dotted #dddddd;
+	margin-bottom: 20px;
+}
+#content-center{
+	margin-top: 20px;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	border-bottom: 1px dotted #dddddd;
+}
+p#p201{
+	font-weight: bold;
+	font-size: 14px;
+	text-align: justify;
+	line-height: 1.8;
+}
+p#p202{
+	line-height: 1.8;
+	font-size: 14px;
+	text-align: justify;
+}
+#center-right{
+	background-color: #ffffff;
+	float: right;
+	width: 260px;
+
+	overflow: hidden;
+}
+
+#aboveft{
+	height:120px;
+}
+#footer{
+	height: 250px;
+	margin: 0px;
+	background-image: url(../img/footer.jpg);
+	background-repeat: repeat-x;
+}
+div#ftright{
+	padding-top: 20px;
+	float: right;
+
+}
+div#ftleft{
+	padding-top: 55px;
+	float: left;
+
+}

@@ -1,0 +1,135 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+    font-family: Arial, Tahoma;
+    font-size: 12px;
+}
+
+a{
+	text-decoration: none;
+	color: #000000;
+}
+a:active{
+	color: #ff6666;
+}
+a:hover{
+	text-decoration: underline;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+.clear{
+	clear: both;
+}
+.floatleft{
+	float: left;
+}
+.floatright{
+	float: right;
+}
+.style-inline{
+	display: inline;
+}
+.textstyle{
+	color: #aaaaaa;
+}
+.min-width{
+	min-width: 1024px;
+}
+.content{
+	width: 1024px;
+	height: 100%;
+	margin: auto;
+	<!--border: 1px dotted #ff0000;-->
+}
+.textTop{
+	color: #ffffff;
+}
+.imgIcon{
+	vertical-align: middle;
+	width: 17px;
+}
+.Itleft{
+	border-right: 1px dotted #ffffff;
+	float: left;
+	padding: 0px 20px 0px 0px;
+	margin: 8px 20px 8px 0px;
+}
+.Itright{
+	border-left: 1px dotted #ffffff;
+	float: right;
+	padding: 0px 0px 0px 20px;
+	margin: 8px 0px 8px 20px;
+}
+.navTop{
+	display: inline-block;
+	text-align: right;
+	font-size: 15px;
+	margin: 40px 0px 50px 40px;
+}
+
+p.p1top{
+	margin-top: 15px;
+	text-align: left;
+	color: #ffffff;
+	font-size: 25px;
+}
+p.p2top{
+	margin-top: 26px;
+	text-align: right;
+	color: #ffffff;
+	font-size: 14px;
+}
+a.insidebar{
+	font-weight: bold;
+	line-height: 1.5;
+	text-align: justify;
+	width: 100%;
+	max-height: 38px;
+	overflow: hidden;
+}
+.sidebarimg{
+	float: left;
+	margin: 0px 10px 0px 0px;
+	width: 50px;
+}
+.sidebarcontent{
+	height: 100%;
+	float: right;
+	width: 175px;
+}
+.sidebarline{
+	height: 55px;
+	border-bottom: 1px dotted #000000;
+	padding: 15px 5px 10px 0px;
+	margin:0px 5px 0px 15px;
+}
+p.incontentleft{
+	display: inline;
+	margin-right: 15px;
+}
+a.incontentleft{
+	margin-left: 20px;
+}
+li.incontentlink{
+	margin-left: 15px;
+	margin-top: 5px;
+	padding-bottom: 5px;
+	list-style-image: url(../img/iconLi.jpg);
+
+}
+.ulftlogo{
+	margin-top: 20px;
+}
+.ftlogo{
+	margin: 15px;
+}
+.liftleft{
+	display: inline;
+	margin: 0px 15px 0px 0px;
+}
